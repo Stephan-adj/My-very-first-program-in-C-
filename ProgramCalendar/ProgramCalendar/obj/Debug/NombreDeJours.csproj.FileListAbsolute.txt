@@ -1,0 +1,6 @@
+D:\Stéphan\OneDrive - De Vinci\Année 1\S1\Cours Programmation\TD Programmation C #\TD 5\TD 5\bin\Debug\TD 5.exe.config
+D:\Stéphan\OneDrive - De Vinci\Année 1\S1\Cours Programmation\TD Programmation C #\TD 5\TD 5\bin\Debug\TD 5.exe
+D:\Stéphan\OneDrive - De Vinci\Année 1\S1\Cours Programmation\TD Programmation C #\TD 5\TD 5\bin\Debug\TD 5.pdb
+D:\Stéphan\OneDrive - De Vinci\Année 1\S1\Cours Programmation\TD Programmation C #\TD 5\TD 5\obj\Debug\NombreDeJours.csproj.CoreCompileInputs.cache
+D:\Stéphan\OneDrive - De Vinci\Année 1\S1\Cours Programmation\TD Programmation C #\TD 5\TD 5\obj\Debug\TD 5.exe
+D:\Stéphan\OneDrive - De Vinci\Année 1\S1\Cours Programmation\TD Programmation C #\TD 5\TD 5\obj\Debug\TD 5.pdb
